@@ -8,7 +8,7 @@ const jwt = require("jsonwebtoken");
 const passport = require("passport");
 const passportJWT = require("passport-jwt");
 
-const HTTP_PORT = process.env.PORT || 8000;
+const HTTP_PORT = process.env.PORT || 3000;
 
 let ExtractJwt = passportJWT.ExtractJwt;
 let JwtStrategy = passportJWT.Strategy;
