@@ -1,5 +1,5 @@
-# user-API
-The "user api" is a critical component of the Museum Artefact Explorer App, responsible for handling user data, authentication, and interactions related to user accounts. This API is designed to securely store and manage user information, such as registration, login, favorite artefacts, and search history.
+# USER-API
+The "USER API" is a critical component of the Museum Artefact Explorer App, responsible for handling user data, authentication, and interactions related to user accounts. This API is designed to securely store and manage user information, such as registration, login, favorite artefacts, and search history.
 
 ## Deploy Link:
 https://odd-gray-piglet-tutu.cyclic.app/
